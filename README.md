@@ -4,7 +4,7 @@ aleo smart contract
 
 Curl
 ------------------------------------------------------------------
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.5 -sSf https://sh.rustup.rs | sh
 
 source $HOME/.cargo/env
 
@@ -29,7 +29,7 @@ cd snarkOS
 cargo install --path .
 
 
-ØªÙˆÛŒÛŒØª Ø¨Ø±Ø§ÛŒ ÙØ§Ø³Øª
+cd home intraction
 ------------------------------------------------------------------
 cd $HOME
 
