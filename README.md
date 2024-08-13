@@ -10,7 +10,7 @@ source $HOME/.cargo/env
 
 rustup update stable
 
-rustup default stable
+rustup stable
 
 git clone https://github.com/AleoHQ/leo
 cd leo
