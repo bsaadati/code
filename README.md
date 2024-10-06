@@ -4,7 +4,7 @@ aleo smart contract
 
 Curl
 ------------------------------------------------------------------
-curl --proto '=https' --tlsv1.9 -sSf
+curl --proto '=https' - -sSf
 
 source $HOME/.cargo/env
 
