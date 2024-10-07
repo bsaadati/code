@@ -6,7 +6,7 @@ Curl
 ------------------------------------------------------------------
 curl --proto '=https' - -sSf
 
-source $HOME/.cargo/env
+source $HOME/.canv
 
 rustup update stable
 
