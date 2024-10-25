@@ -1,7 +1,3 @@
-# code
-aleo smart contract
-
-
 Curl
 ------------------------------------------------------------------
 curl --proto '=https' - -sSf
