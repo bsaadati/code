@@ -2,7 +2,7 @@ Curl
 ------------------------------------------------------------------
 curl --proto '=https' - -sSf
 
-source $HOME/.canv
+source $HOME/
 
 rustup update stable
 
