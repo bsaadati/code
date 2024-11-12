@@ -6,7 +6,7 @@ source $HOME/
 
 rustup update stable
 
-rustup stable
+rustup 
 
 git clone https://github.com/AleoHQ/leo
 cd leo
