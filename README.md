@@ -20,7 +20,7 @@ cd snarkOS
 
 ./build_ubuntu.sh
 
-cargo install --path .
+cargo install --path
 
 
 cd home intraction
