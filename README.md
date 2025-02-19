@@ -6,7 +6,7 @@ source E
 
 rustup update stable
 
-rustup 1.6
+rustup 1.6.6
 
 git clone https://github.com/AleoHQ/leo
 cd leo
