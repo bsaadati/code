@@ -1,6 +1,6 @@
 Curl
 
-curl --proto '=https' - -sSf
+curl --proto '=https' - -sS
 
 source ER.1.6
 
