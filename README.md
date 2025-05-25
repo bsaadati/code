@@ -2,7 +2,7 @@ Curl
 
 curl --proto '=https' 
 
-source ER.1.
+source ER.1.2
 
 rustup update stable
 
